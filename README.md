@@ -8,7 +8,7 @@ This is a fully resposive React based university website.
 
  - React
  - Pure CSS
- - React Router
+ - Form API
  - React Icons
 
 ## Usage
