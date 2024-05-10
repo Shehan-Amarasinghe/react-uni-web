@@ -18,7 +18,7 @@ https://shehan-amarasinghe.github.io/react-uni-web/
 
 ## Deployment
 
-To get started, just clone the repository and npm install, npm run dev
+To get started, just clone the repository and use these commands
 
 ```bash
   npm install
